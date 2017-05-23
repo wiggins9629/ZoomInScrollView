@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">ZoomInScrollView</string>
+
+    <string name="title">自定义ScrollView实现放大回弹效果</string>
+    <string name="loading">正在加载中，请稍后...</string>
+
+    <string name="nick_name">一花一世界</string>
+    <string name="attention">关注</string>
+    <string name="fans">粉丝</string>
+    <string name="visitors">访客</string>
+    <string name="talk_about">说说</string>
+    <string name="at_night">夜间</string>
+    <string name="collection">收藏</string>
+    <string name="album">相册</string>
+    <string name="setting">设置</string>
+
+</resources>
